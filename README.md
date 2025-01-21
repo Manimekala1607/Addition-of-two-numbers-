@@ -5,10 +5,10 @@ CODING:
 class Main {
 
     public static void main(String[] args) {
+
         int a = 10;
 
         int b = 20;
-
         // Add two numbers
 
         int sum = a + b;
